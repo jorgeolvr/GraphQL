@@ -1,14 +1,14 @@
 # Criar frontend
 
-npm create vite@latest
+1. npm create vite@latest
 
 # Dependencias frontend
 
-npm i @apollo/client graphql 
+1. npm i @apollo/client graphql 
  
 # Criar backend
 
-npm init -y
+1. npm init -y
 
 # Dependencias backend
 
@@ -18,4 +18,4 @@ npm init -y
 
 # Rodar frontend e backend
 
-npm run dev
+1. npm run dev
